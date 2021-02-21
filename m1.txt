@@ -1,3 +1,4 @@
 test check
 add a branch
 add a branch2
+setting settings sync
