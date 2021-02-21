@@ -1,4 +1,7 @@
 test check
 add a branch
+<<<<<<< HEAD
 add a branch2
 setting settings sync
+=======
+>>>>>>> parent of 45d1bfd (Merge pull request #2 from c981337/test-branch)
